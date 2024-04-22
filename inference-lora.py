@@ -1,3 +1,6 @@
+#pip3 install -U bitsandbytes
+#pip3 install -U git+https://github.com/huggingface/transformers.git git+https://github.com/huggingface/accelerate.git git+https://github.com/huggingface/peft.git
+
 import os
 import bitsandbytes as bnb
 import torch
